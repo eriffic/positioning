@@ -3,16 +3,16 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: #fff;
+    font-family: 'Montserrat', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
-::selection {
+/* ::selection {
     color: #000; 
     background: #ff0;
-}
+} */
 
 h1 {
     font-weight: normal;
@@ -37,13 +37,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:#2A93D5;
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: #2A93D5;
     text-decoration: none;
 }
 
