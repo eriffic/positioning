@@ -3,6 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
+    background-image: url("/images/moutains.jpg");
+    background-repeat: no-repeat;
     background-color: #fff;
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
@@ -116,3 +118,9 @@ footer {
     }
     
 }
+
+/* Image Citation
+https://unsplash.com/photos/7UYE15RyWp8
+
+
+*/
